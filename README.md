@@ -1,1 +1,2 @@
 # forPipenew
+newline
